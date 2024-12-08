@@ -68,7 +68,7 @@ This project requires **Python** and the following Python libraries:
 ### WordCloud:
 Word clouds are a visual representation of the frequency of words within a given set of tweets. Below is an example of a word cloud generated from the dataset.
 
-![Word Cloud](C:\Data Science\project_7\images\wordcloud.png)
+![Word Cloud](wordcloud.png)
 
 ### Results:
 
@@ -84,8 +84,8 @@ Models are compared based on:
 - **F1-Score**
 - **Time**
 
-![ML Results](C:\Data Science\project_7\images\ML_result.png)  
-![DL Results](C:\Data Science\project_7\images\DL_result.png)
+![ML Results](ML_result.png)  
+![DL Results](DL_result.png)
 
 ### Model Performance:
 
