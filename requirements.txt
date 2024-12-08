@@ -1,0 +1,12 @@
+numpy
+pandas
+tensorflow
+matplotlib
+seaborn
+nltk
+regex
+scikit-learn
+from-root
+scikit-learn
+beautifulsoup4
+gensim
