@@ -84,8 +84,8 @@ Models are compared based on:
 - **F1-Score**
 - **Time**
 
-![ML Results](ML_result.png)  
-![DL Results](DL_result.png)
+![ML Results](ML result.png)  
+![DL Results](DL result.png)
 
 ### Model Performance:
 
